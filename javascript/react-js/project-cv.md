@@ -10,6 +10,7 @@ So let's get started.
 
 ### Assignment
 
+<div class="lesson-content__panel" markdown="1">
 1. Create a new project using `npx create-react-app cv-project`. If you forgot how it works, check out the previous lessons. Also make sure you set up a Github repository for you project, to push your progress.
 2. Remove all the unnecessary code created by `create-react-app`.
 3. Think about how to structure your application into components. Your application should include:
@@ -20,6 +21,7 @@ So let's get started.
 5. Create a `components` folder in your `src` directory and add your components.
 6. If you are familiar with bootstrap or any other CSS framework, feel free to use it. If not, don't worry, just include a `styles` folder in your `src` directory and continue with normal CSS, as you are conformable.
 7. Don't forget to push your solution to Github, you can be proud of it, you achieved quite a lot here.
+</div>
 
 ### Student Solutions
 
@@ -29,5 +31,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+
+</details>
 
 ### Additional Resources

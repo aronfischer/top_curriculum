@@ -105,8 +105,10 @@ Great now you should have enough basics to get started with react routing. There
 
 ### Assignment
 
+<div class="lesson-content__panel" markdown="1">
 1. Go and add a few new routes to the application we created above, playing around with it is the best practice. Maybe delete it completely and rewrite it.
 2. Browse a little bit through their [documentation](https://reacttraining.com/react-router/web/guides/quick-start). You don't need to read through all of it, neither understand all of it. Just browse through the concepts we discussed here and re-read them. I'm mentioning it here, because it's a great ressource to refere back to.
 3. Watch [this](https://www.youtube.com/watch?v=Law7wfdg_ls&t=850s) video for reviewing. You should be already familiar with those concepts.
+</div>
 
 ### Additional Resources

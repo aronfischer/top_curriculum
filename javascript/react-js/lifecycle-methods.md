@@ -52,9 +52,11 @@ A few examples are:
 
 ### Assignment
 
+<div class="lesson-content__panel" markdown="1">
 1. Read [this](https://programmingwithmosh.com/javascript/react-lifecycle-methods/) article for a great overview over lifecycle methods in React
 2. The React official documentations is also always a good source, it's well structured. In [this](https://reactjs.org/docs/react-component.html) article you can read more about lifecycle methods if you feel not secure yet.
 3. Code along with [this](https://www.youtube.com/watch?v=m_mtV4YaI8c) video, it gives you a practical example about how those methods work and when React calls them.
+</div>
 
 ### Additional Resources
 

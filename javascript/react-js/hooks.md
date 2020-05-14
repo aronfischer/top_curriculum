@@ -143,7 +143,9 @@ There are more hooks out there with great application areas, and it definitively
 
 ### Assignment
 
+<div class="lesson-content__panel" markdown="1">
 1. The React documentation provides a whole section on hooks. Read through all steps [here](https://reactjs.org/docs/hooks-intro.html), however you can skip the parts where it goes in too much detail. You can always refere back to this page anytime. Just make sure you understand the concept. The goal here is to give you a good basic understanding of the most important concepts
 2. Now go back to your CV Project and rewrite it using functional components and hooks.
+</div>
 
 ### Additional Resources

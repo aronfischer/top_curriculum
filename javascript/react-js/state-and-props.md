@@ -250,8 +250,10 @@ For the state in functional components it is a little bit different. Before the 
 
 ### Assignment
 
+<div class="lesson-content__panel" markdown="1">
 1. Got to the React homepage and go through the props [section](https://reactjs.org/docs/components-and-props.html) again. Also check out the next article, which talkes about State and Lifecycle Methods. Don't worry about the Lifecycle methods for now we will discuss it in the upcoming lections. However, if you are excited and want to learn more, feel free to already check it out.
 2. Go through [those](https://www.geeksforgeeks.org/reactjs-props-set-1/) lessons. There are a couple of them linked at the bottom of the page. Go through all the ones relating state and props, to build a good foundation for the upcoming lectures. Of course also feel free to go through the ones we haven't discussed here yet, it won't harm you.
+</div>
 
 ### Additional Resources
 

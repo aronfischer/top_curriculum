@@ -5,6 +5,7 @@ This application should also have more than one route, at least two to give you 
 
 ### Assignment
 
+<div class="lesson-content__panel" markdown="1">
 1. Create a new project with `create-react-app` and get rid of the boilerplate as in the previous projects
 2. Think about the component and the folder structure. How could you set up your application? Which components or functionalities do you need?
 3. You should at least have two pages (a homepage and a shop page, which includes your shopping chart) Let a user navigate between the pages with a navigation bar, which will be shown on both routes.
@@ -14,6 +15,7 @@ This application should also have more than one route, at least two to give you 
 7. Once a user submitted his order, the amount on the chart itself should adjust
 8. Style your application a little bit, in order to be able to show it off.
 9. Push the project to GitHub
+</div>
 
 ### Student Solutions
 
@@ -23,5 +25,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+
+</details>
 
 ### Additional Resources
