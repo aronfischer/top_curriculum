@@ -1,6 +1,6 @@
 ## Lifecycle methods (in class components)
 
-Now finished with your first project, you start getting quite advanced with React, so let's talk about some more advanced topics. The first to start with will be **lifecycle methods**. This is an incredible important topic, so pay close attention and make sure you understand everything.
+Now that we're done with your first project, you start getting quite advanced with React. So let's talk about some more advanced topics. The first to start with will be **lifecycle methods**. This is an incrediblly important topic, so pay close attention and make sure you understand everything.
 
 Lifecycle methods are methods, defined by the React team, which are provided to us programmers, so you don't need to define them yourself. They are called when a component reaches a certain lifecycle. For example when the component mounts, renders or updates. You actually already know the most important lifecycle method, the `render` method. Soon you will know a few more, with a good understanding of when to use them and what tasks should be done within them.
 

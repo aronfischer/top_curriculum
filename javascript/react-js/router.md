@@ -1,6 +1,6 @@
 ## Router
 
-Now in this lecture we are going to learn a little bit about routing in react. Until now we have only written one-page applications. Once your application has multiple pages you need to set up a reliable routing system to handle the component or page that should be rendered when navigating to a certain route. For this we are going to use a package called `react-router-dom`.
+In this lecture we are going to learn a little bit about routing in react. Until now we have only written one-page applications. Once your application has multiple pages you need to set up a reliable routing system to handle the component or page that should be rendered when navigating to a certain route. For this we are going to use a package called `react-router-dom`.
 
 Let's go through it step by step. First of all, create a new project using `create-react-app` and get rid of the boilerplate code as you already learned in previous lessons. (Just leave the index.js and the App.js files)
 
@@ -61,7 +61,7 @@ const Routes = () => {
 export default Routes;
 ```
 
-And that is already doing all the magic. So what is happending here. First we are importing React, our two components Profile and App, as well as a couple of things from the package we installed.
+And there is already doing all the magic. So what is happending here? First we are importing React, our two components Profile and App, as well as a couple of things from the package we installed.
 
 1. Route: Those are our routes with a path, which equals the url path, and a component that should be rendered when we navigate to this url.
 

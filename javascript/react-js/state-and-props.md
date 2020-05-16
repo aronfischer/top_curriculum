@@ -1,6 +1,6 @@
 ## State and Props
 
-Uff, the last lesson was a lot of theory. There is just a little bit more that you have to understand in order to write your first React application. If you've done the previous lesson, you should now have a great foundation for the next concepts that you will learn. Make sure you pay good attention in this lecture, because it's one of the most important concepts to get you started writing react.
+Uff, the last lesson was a lot of theory. There is just a little bit more that you have to understand in order to write your first React application. If you've done the previous lesson, you should now have a great foundation for the next concepts that you will learn here. Make sure you pay good attention in this lecture, because it's one of the most important concepts to get you started writing react.
 
 Let's dive right into it, feel free to code along with this lesson. Typing the code out can help you remember it significantly better.
 
@@ -156,9 +156,9 @@ export default MyComponent
 
 ```
 
-Here we are destructuring `title` and `onButtonClicked` from `this.props`, which lets us refere to them with just with their names.
+Here we are destructuring `title` and `onButtonClicked` from `this.props`, which lets us refer to them with just with their names.
 
-Great so far so good, you hopefully have understood the purpose and usage of `props` in React. Isn't that difficult is it.
+Great! So far so good, you hopefully have understood the purpose and usage of `props` in React. Isn't that difficult is it.
 
 ### State
 
@@ -239,7 +239,7 @@ export default App
 
 Of course we can also use destructuring here, by adding this line `const {title} = props` above the return statement in `MyComponent.js` we can just refere to the title using `{title}`
 
-For the state in functional components it is a little bit different. Before the end of 2018 developers were actually not able to access state in functional components at all. Functional components were therefore just used for returning JSX logic. However with the introduction of **React Hooks** this has changed. Now we can set and access state also in functional components, and often they are now prefered over class components. How Hooks work is the topic of one of the following lectures, so don't worry about it too much right now. Just keep in mind it's an amazing feature.
+For the state in functional components it is a little bit different. Before the end of 2018 developers were actually not able to access state in functional components at all. Functional components were therefore just used for returning JSX logic. However with the introduction of **React Hooks** this has changed. Now we can set and access state also in functional components, and often they are now prefered over class components. The way Hooks work is the topic of one of the following lectures, so don't worry about it too much right now. Just keep in mind it's an amazing feature.
 
 ### Learning Outcomes
 

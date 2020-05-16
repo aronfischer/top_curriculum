@@ -8,7 +8,7 @@ So let's get to the most basic hooks. Create a `create-react-app` and use the Ap
 
 ### useState
 
-So finally, as already said in a earlier section we will come back in the Hooks section about how to use state in functional components. And here we arrived. The `useState` hook makes it possible to declare a state in functional components. Here is an example on how to use it:
+So finally, as already mentioned in an earlier section we will be coming back to the Hooks section and discuss how to use state in functional components. And here we are. The `useState` hook makes it possible to declare a state in functional components. Here is an example on how to use it:
 
 ```
 import React, {useState} from "react"
@@ -129,7 +129,7 @@ useEffect(() => {
 
 You can also completely leave out the dependency array, this way the useEffect hook runs anytime the component is updated, **AND** after the initial render. This is the difference to the `componentDidUpdate` lifecycle method, because it also runs after the initial render. This way it would be equal to a `componentDidMount` and `componenDidUpdate` method combined.
 
-So far so good, but there is more we have to talk about. The return statement we are adding to our useEffect is acually a `componentWillUnmount`. Whaaat? Yes you heard right.
+So far so good. But there is more we have to talk about. The return statement we are adding to our useEffect is acually a `componentWillUnmount`. Whaaat? Yes you heard that right.
 
 ```
 return () => {
@@ -144,7 +144,7 @@ There are more hooks out there with great application areas, and it definitively
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
-1. The React documentation provides a whole section on hooks. Read through all steps [here](https://reactjs.org/docs/hooks-intro.html), however you can skip the parts where it goes in too much detail. You can always refere back to this page anytime. Just make sure you understand the concept. The goal here is to give you a good basic understanding of the most important concepts
+1. The React documentation provides a whole section on hooks. Read through all steps [here](https://reactjs.org/docs/hooks-intro.html), but you can skip the parts where it goes in too much detail. You can always refere back to this page anytime. Just make sure you understand the concept. The goal here is to give you a good basic understanding of the most important concepts
 2. Now go back to your CV Project and rewrite it using functional components and hooks.
 </div>
 

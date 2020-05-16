@@ -1,6 +1,6 @@
 ## Handle inputs and render lists
 
-Now before we actually go any further, let's do a quick check of how well you understand the topic. Following I will describe the quick assignment, for those who want to try it themselves. I encourage everyone to at least try it yourself, if you've done the reading from the last lectures, you should be able to to it. And if not, you can always come back to this section if you get stuck, because we will discuss the assignment in detail together. Don't be demotivated if you can't solve it, it includes some tricky parts that we haven't actually discussed so far.
+Now before we actually go any further, let's do a quick check of how well you understand the topic. Following I will describe the quick assignment, for those who want to try it themselves. I encourage everyone to at least try it yourself, if you've done the reading from the last lectures, you should be able to to it. And if not, you can always come back to this section if you get stuck, because we will discuss the assignment in detail together. Don't be disscouraged if you can't solve it, it includes some tricky parts that we haven't actually discussed so far.
 
 Before you start, make sure you understood the concept of `state` and `props` from the previous lessons.
 
@@ -123,7 +123,7 @@ this.state = {
 We assigned `task` to an empty string, this will be the state handling what we type in our input field. And `tasks` will initially be set to an empty array. Later we include all our tasks here.
 After that we render a form element, with an `input` and a `button` element. As I said, don't worry about all the `className="form-group"` ect. attributes. Just copy past them if you don't want to learn Bootstrap. What they do is just style our html. For example the `className="btn-primary"` that we provided to our `button` element insures that out button will be displayed blue.
 
-Ok so far so goo, let's have a look at our application. Run `npm start` in your terminal to see what we already got. You should now see an input field with a label and a submit button. When you click the button nothing happens, the page only refreshes.
+Ok so far so good, let's have a look at our application. Run `npm start` in your terminal to see what we already got. You should now see an input field with a label and a submit button. When you click the button nothing happens, the page only refreshes.
 
 Let's add some functionality to it. Go back to your `App.js` component and add the following two function. Make sure to add those functions between your constructor and the render method.
 
@@ -143,7 +143,7 @@ Let's add some functionality to it. Go back to your `App.js` component and add t
    };
 ```
 
-So far so good, but without calling those function nothing will change in our application. So let's call them. The `handleChange` function will be out `onChange` handler for our input field. It just set's the current `task` in state to whatever we type in our input field. The `onSubmitTask` function instead, will be our `onSubmit` handler for our `form` element. The `onSubmit` handler of the form should be invoked by a click on our button.
+Very good, but without calling those function nothing will change in our application. So let's call them. The `handleChange` function will be out `onChange` handler for our input field. It just set's the current `task` in state to whatever we type in our input field. The `onSubmitTask` function instead, will be our `onSubmit` handler for our `form` element. The `onSubmit` handler of the form should be invoked by a click on our button.
 
 In the `onSubmitTask` function we first call `e.preventDefault()` because we don't want the default behavior of refreshing the form anytime we submit the form. After that we modify state.
 
@@ -221,7 +221,7 @@ And then add the Overview component to your render method in `App.js`. Add this 
 <Overview tasks={this.state.tasks} />
 ```
 
-Here we go, one last time run `npm start`. If you've done everything right, you should now be able to type a task into the input field and click submit to display it right below the input field. Fell free to play around a little bit and maybe change or style it as you like.
+Here we go, run `npm start` one last time. If you've done everything right, you should now be able to type a task into the input field and click submit to display it right below the input field. Fell free to play around a little bit and maybe change or style it as you like.
 
 Your finished files should look like this:
 
