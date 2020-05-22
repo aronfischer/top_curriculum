@@ -1,4 +1,4 @@
-## Router
+### Introduction
 
 In this lecture we are going to learn a little bit about routing in react. Until now we have only written one-page applications. Once your application has multiple pages you need to set up a reliable routing system to handle the component or page that should be rendered when navigating to a certain route. For this we are going to use a package called `react-router-dom`.
 

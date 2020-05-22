@@ -1,4 +1,4 @@
-## Lifecycle methods (in class components)
+### Introduction
 
 Now that we're done with your first project, you start getting quite advanced with React. So let's talk about some more advanced topics. The first to start with will be **lifecycle methods**. This is an incrediblly important topic, so pay close attention and make sure you understand everything.
 

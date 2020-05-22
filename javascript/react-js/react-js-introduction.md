@@ -1,4 +1,4 @@
-## Introduction to React.js
+### Introduction
 
 The last lesson has given you a quick overview about the three most popular Frontend Frameworks (Vue.js, Angular, React.js). This section aims to provide you with all you need to know about React, to feel the power of a Frontend Framework and also to help you create highly scalable React applications and beautiful websites. But before we jump right into it we need to answer one question.
 
@@ -26,7 +26,7 @@ _convinced and excited? Great, because it's gonna change your life. Let's dive r
 
 Everything in React is made of (reusable) components, they are your building blocks in react. In order to be confident using react, you should learn to divide your application or project into components. The following picture gives you an idea how to do that with a very basic app.
 
-![Simple Homepage](./assets/BlogPost.png)
+![Simple Homepage](./images/BlogPost.png)
 
 For example this simple blog website could be divided into the following sections (components):
 

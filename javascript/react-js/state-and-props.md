@@ -1,4 +1,4 @@
-## State and Props
+### Introduction
 
 Uff, the last lesson was a lot of theory. There is just a little bit more that you have to understand in order to write your first React application. If you've done the previous lesson, you should now have a great foundation for the next concepts that you will learn here. Make sure you pay good attention in this lecture, because it's one of the most important concepts to get you started writing react.
 

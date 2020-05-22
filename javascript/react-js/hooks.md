@@ -1,4 +1,4 @@
-## Hooks
+### Introduction
 
 As already said in the previous lesson, the lifecycle methods such as `componentDidMount`, `componentDidUpdate` but also the `render` method can only be called in class components. This was a reason why functional components were for long refered to as "dumb" or "stateless" components. They were usually just used to return some JSX, because of their inability to have a state or lifecycle methods. But since the introduction of Hooks this has changed completeyly.
 

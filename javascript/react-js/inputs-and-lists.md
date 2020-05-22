@@ -1,4 +1,4 @@
-## Handle inputs and render lists
+### Introduction
 
 Now before we actually go any further, let's do a quick check of how well you understand the topic. Following I will describe the quick assignment, for those who want to try it themselves. I encourage everyone to at least try it yourself, if you've done the reading from the last lectures, you should be able to to it. And if not, you can always come back to this section if you get stuck, because we will discuss the assignment in detail together. Don't be disscouraged if you can't solve it, it includes some tricky parts that we haven't actually discussed so far.
 

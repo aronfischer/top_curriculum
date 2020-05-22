@@ -1,4 +1,4 @@
-## Project: CV Application
+### Introduction
 
 Congrats, you made it to the first project. In this project, you will be creating a small CV application. It's a great project to get you started, because it includes a lot of the basic concepts.
 
