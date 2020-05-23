@@ -1,4 +1,4 @@
-### Introduction
+### Project: Shipping Chart
 
 Now we are getting to our final React application. It's going to be a shopping chart.
 This application should also have more than one route, at least two to give you a chance to make some use of your react-router-dom skills.

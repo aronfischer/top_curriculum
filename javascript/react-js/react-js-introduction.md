@@ -1,4 +1,4 @@
-### Introduction
+### ReactJs Introduction
 
 The last lesson has given you a quick overview about the three most popular Frontend Frameworks (Vue.js, Angular, React.js). This section aims to provide you with all you need to know about React, to feel the power of a Frontend Framework and also to help you create highly scalable React applications and beautiful websites. But before we jump right into it we need to answer one question.
 

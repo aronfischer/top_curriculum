@@ -1,4 +1,4 @@
-### Introduction
+### Advanced Concepts
 
 With all the concepts we have learned in this series, you are more than ready to create your own react applications. However there are a lot of other, more advanced concepts out there, which we haven't really discussed, but which I neither want to withhold from you.
 
